@@ -1,0 +1,146 @@
+.nav-container {
+  font-size: 15px;
+  font-weight: 500;
+  height: 80px;
+  /* width: 100%; */
+  background-color: #141b29;
+  color: #a2a4a9;
+  position: sticky;
+  top: 0;
+}
+.nav-container,
+.left-container ul,
+.right-container ul {
+  display: flex;
+  align-items: center;
+}
+
+.nav-container {
+  justify-content: space-between;
+  padding: 0 40px;
+}
+
+.left-container ul {
+  padding: 0;
+}
+/* hamburger */
+
+.line {
+  width: 18px;
+  height: 2px;
+  background-color: #a0a3a9;
+  display: block;
+}
+.second {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+.ham {
+  margin: auto;
+  padding: 20px;
+}
+
+/* disney logo  */
+
+.disney-logo-li {
+  padding: 0px;
+}
+
+.disney-logo {
+  padding-bottom: 4px;
+}
+
+/* list */
+
+ul {
+  list-style: none;
+}
+
+li {
+  padding: 20px 15px 20px;
+}
+
+.dropdown {
+  /* align-self: center; */
+}
+
+/* right container */
+
+.right-container ul div {
+  display: flex;
+  align-items: center;
+  /* margin-left: auto; */
+}
+
+/* search bar */
+
+.search-bar-li {
+  padding: 0;
+}
+
+#search-bar {
+  border: none;
+  padding: 0;
+  padding-bottom: 6px;
+  outline: 0;
+  font-size: 16px;
+  background: #141b29;
+  color: #ffffff;
+  border-bottom: 1px solid #a0a3a9;
+  width: 240px;
+  transition: 0.9s;
+}
+
+#search-bar:hover {
+  width: 360px;
+}
+
+.search-icon {
+  background-image: url("../assets/images/download.svg");
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 14px;
+  height: 23px;
+  background-position: 50% 50%;
+  margin-top: -3px;
+  margin-left: -15px;
+}
+
+/* button  */
+
+.btn-li {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.btn {
+  padding: 0 12px;
+  color: white;
+  border: 0;
+  border-radius: 4px;
+  height: 24px;
+  background: #1f80e0;
+  margin: 15px 0 15px 20px;
+  font-weight: 550;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+/* pointer */
+
+.pointer:hover {
+  cursor: pointer;
+  transition: 0.3s;
+  color: white;
+}
+
+/* login  */
+
+.login {
+  color: white;
+}
+
+.login:hover {
+  cursor: pointer;
+}
