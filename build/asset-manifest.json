@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bdb18e8.css",
+    "main.js": "/static/js/main.a4c94d2d.js",
+    "static/js/787.388b3a9d.chunk.js": "/static/js/787.388b3a9d.chunk.js",
+    "static/media/a8.webp": "/static/media/a8.daa5c7c114248c8ee33f.webp",
+    "static/media/a4.webp": "/static/media/a4.8e95baf8f7abecd758db.webp",
+    "static/media/a7.webp": "/static/media/a7.d8d387e17f4f6707e69b.webp",
+    "static/media/f.webp": "/static/media/f.463804ec2e5eaf539b78.webp",
+    "static/media/i.webp": "/static/media/i.554335e6844a38718c23.webp",
+    "static/media/d.webp": "/static/media/d.7f3a99bf165391d90ce8.webp",
+    "static/media/b2.webp": "/static/media/b2.4a209d60efc852c3055a.webp",
+    "static/media/a2.webp": "/static/media/a2.d2c79f7d2b984fd62409.webp",
+    "static/media/b4.webp": "/static/media/b4.faaf0e5c12730d659052.webp",
+    "static/media/j.webp": "/static/media/j.dcc377d570aade1e0348.webp",
+    "static/media/e.webp": "/static/media/e.1ee0df1722db9c4371cb.webp",
+    "static/media/a1.webp": "/static/media/a1.809ac74f859602344128.webp",
+    "static/media/c.webp": "/static/media/c.54fa513df83eb6390066.webp",
+    "static/media/g.webp": "/static/media/g.454f6cd32243f22faa6c.webp",
+    "static/media/b3.webp": "/static/media/b3.3c2b5fd2f3b1e29df77e.webp",
+    "static/media/b1.webp": "/static/media/b1.ec45a991b95d061b40a9.webp",
+    "static/media/h.webp": "/static/media/h.f865e758f582eaa253a3.webp",
+    "static/media/a.webp": "/static/media/a.4fcb09e8b272f05d53e7.webp",
+    "static/media/b.webp": "/static/media/b.186d548f72132206f5a8.webp",
+    "static/media/a5.webp": "/static/media/a5.896639e80826aa5a753b.webp",
+    "static/media/a6.webp": "/static/media/a6.050f3aaafc0c8200bff1.webp",
+    "static/media/disney-hotstar-logo-dark.svg": "/static/media/disney-hotstar-logo-dark.1d70659bdb59f268b53bec98f08afcad.svg",
+    "static/media/a3.webp": "/static/media/a3.a0ef5918d0fdac79fdf6.webp",
+    "static/media/kids-logo.svg": "/static/media/kids-logo.63ecf865e9e4cd430378b5db3001c593.svg",
+    "index.html": "/index.html",
+    "static/media/download.svg": "/static/media/download.a11c4c84275abb24060a.svg",
+    "main.0bdb18e8.css.map": "/static/css/main.0bdb18e8.css.map",
+    "main.a4c94d2d.js.map": "/static/js/main.a4c94d2d.js.map",
+    "787.388b3a9d.chunk.js.map": "/static/js/787.388b3a9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bdb18e8.css",
+    "static/js/main.a4c94d2d.js"
+  ]
+}
